@@ -1,0 +1,28 @@
+# Archivos sensibles
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Documentación
+README.md
+*.md
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
